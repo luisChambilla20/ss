@@ -11,10 +11,10 @@ int main(){
 	int a,c,m,semillaini,r=0,cont=0;
 	
 	cout<<"INGRESE DATOS \n";
-	cout<<"- INGRESE SEMILLA: ";cin>>semillaini;
-	cout<<"- INGRESE MULTIPLICADOR: ";cin>>a;
-	cout<<"- INGRESE CONSTANTE ADITIVA: ";cin>>c;
-	cout<<"- INGRESE MODULO: ";cin>>m;
+	cout<<"- INGRESE SEMILLAs: ";cin>>semillaini;
+	cout<<"- INGRESE MULTIPLICADORr: ";cin>>a;
+	cout<<"- INGRESE CONSTANTE ADITIVAa: ";cin>>c;
+	cout<<"- INGRESE MODULOo: ";cin>>m;
 	semilla = semillaini;
 	
 	while(semillaini != r){
